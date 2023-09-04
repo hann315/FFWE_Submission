@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+body {
+  background-color: #FEF9EF;
+  color: #FEF9EF;
+}
+.text-center a {
+  text-decoration: none !important;
+}
+nav {
+  background-color: #393E46;
+}
+#logo {
+  font-family: 'Quicksand', sans-serif;
+  color: #FEF9EF;
+  font-size: 30px;
+}
+#coordinate {
+  background-color: #CBF1F5;
+}
+.card-body,
+#head {
+  background-color: #393E46;
+}
+.card-img-top,
+.list-group-item {
+  background-color: #CBF1F5;
+  color: #ffffff;
+}
+list-bar,
+footer,
+.clock {
+  font-family: 'Quicksand', sans-serif;
+}
+#titleWeather,
+.clock {
+  color: #ffffff;
+}
+footer,
+#titleWeather {
+  color: #000000;
+}
+.card-header {
+  background-color: #3D3C42;
+}
+#weather {
+  color: #FFFFFF;
+}
